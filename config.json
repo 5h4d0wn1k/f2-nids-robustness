@@ -1,0 +1,5 @@
+{
+  "seed": 42,
+  "fragment_size": 4,
+  "signature": "POST /exec?cmd=bash"
+}
